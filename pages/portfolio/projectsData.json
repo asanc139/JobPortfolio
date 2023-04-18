@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Mern Stack E-Commerce Project",
+    "image": "./projectImages/MernProjectSnapShot.png",
+    "description": "This is my MERN Stack Project. It is a e-commerce store, the theme being Nostalgia. I wanted this project to be relevant to my childhood. I used MongoDB, Express.js, React.js, and Node.js. I created an atlas mongodb database to store Products-id, User-info, New-user-info, and Purchases-id. I used Express.js in my backend(routes) to route API calls from the frontend whenever a user wants to search, add, or delete items, as well as defining generateToken for user security. I created custom components and passed them as props along my project as well as different hooks like useState, useReducer, useEffect, useContext, useNavigate. I used Axios whenever a call to the backend was made. I used Material UI Framework to enhance the website as well as React Bootstrap components. I used Node.js for the server backend. I deployed this project on  Heroku. ",
+    "technologies": "MongoDB | Express.js | React.js | Node.js",
+    "github": "https://github.com/asanc139/MERN_Stack",
+    "deployed": "https://mern-nostalgia-app.onrender.com/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "React To Do List Project",
+    "image": "./projectImages/ReactToDoListProjectSnapShot.png",
+    "technologies": "React.js | HTML | CSS",
+    "description": " This is my React To Do List project. I used different states in this project like useRef ,useEffect, useState. useState to add, delete, update, or complete the to do list in whatever state it is in currently. I used simple conditional statements and the array method .map to filter,remove,add, or update the current state the list of to do's are in. I passed my components along to other components in this project. ",
+    "github": "https://github.com/asanc139/react.js",
+    "deployed": "https://main.d3eekbora9qesv.amplifyapp.com/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Pets React Router",
+    "image": "./projectImages/PetsReactRouterProjectScreenShot.png",
+    "technologies": "React | react-dom | react-router-dom | CSS",
+    "description": "In this React Project, the goal was learning React Router to add client-side routing to this React Application. This project is a pet adoption website that allows users to view all the animals of a particular species and view the profiles of specific animals. I imported RouterProvider in the root folder and defined the attribute router with the value of appRouter. This is where I will transform a Route component to a route object. To distinguish unique searches among different types of animals for my users, I created a URL parameter called :type to naviagate to the proper animal they searched for, useEffect() hook, we’ve passed type to our API’s getPets method which fetches pets of the specified type to be rendered on the page .Along with the help of useParams() hook to help get the exact value from the query search. As well as the useNavigate() to direct a user to a particular page, with help from components like Link and NavLink. ",
+    "github": "https://github.com/asanc139/Pets_React",
+    "deployed": " https://main.d3fafmtkw6671z.amplifyapp.com/",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Social Media Mockup Layout Page",
+    "image": "./projectImages/SocialMediaLayoutProjectSnapShot.png",
+    "technologies": "JavaScript | HTML | CSS",
+    "description": "This project was my third project I ever made. I used HTML, CSS, and JavaScript. I focused on structure and styling as I created a funny cartoon Social Media Mockup Page for cartoon characters. In this project I was already comfortable with HTML and CSS, I feel like I had a good understanding on HTML and how to structure <div's>  creating class attributes to distinguish each div in the project so I can style that div or header or p tag in the CSS file. In CSS I would have fun and play around with different colors, different displays, font's, and etc. I understood better in this project how to style class's from the HTML file using CSS. I was still fairly new to JavaScript at the time of this project but I used eventListeners whenever a user would like a post a Heart shape will appear and that image would show it's self as liked.",
+    "github": "https://github.com/asanc139/asanc139.github.io2",
+    "deployed": "https://asanc139.github.io/asanc139.github.io2/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "Robot Game Project",
+    "image": "./projectImages/JavaScriptGameProjectScreenShot.png",
+    "description": "This is a Robot Game I made using JavaScript. A user would have three doors 3 options to choose and open. If the user click on two doors and no Robot appears then they win but if the Robot appears in the first two try's, the User looses the game. I used condtional statements to decide what happenes when an event listener such as a btn is being clicked, to determine the outcome of the game. As well as Math.floor and Math.random to generate a random door in which the Robot will be behind.",
+    "technologies": "JavaScript | HTML | CSS | Bootstrap ",
+    "github": "https://github.com/asanc139/asanc139.github.io3",
+    "deployed": "https://main.drrp21ok5ofyy.amplifyapp.com/",
+    "bgcolor": "#ffcc33",
+    "id": "5"
+  },
+
+  {
+    "title": "E-Commerce Codecademy Project ",
+    "image": "./projectImages/e-commerceProject.png",
+    "technologies": "JavaScript | HTML | CSS",
+    "description": "This is a little e-commerce copycat website that mainly focused on Javascript Document Object Model(DOM). DOM focuses on manipulating element parts from the HTML file. This project also focused on creating a handlebar expressions with if block helpers along with each helper block. ",
+    "github": "https://github.com/asanc139/asanc139-github.io4",
+    "deployed": "https://main.d2kjznkf3ldo19.amplifyapp.com/",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  },
+
+  {
+    "title": "Second Project I made",
+    "image": "./projectImages/LandingPageProjectScreenShot.png",
+    "technologies": " HTML | CSS",
+    "description": "This was my second attempt on creating a simple landing page using strictly HTML and CSS. I was still learning these technologies when I attempted this project. ",
+    "github": "https://github.com/asanc139/asanc139.github.io",
+    "deployed": "https://asanc139.github.io/",
+    "bgcolor": "#39FF14",
+    "id": "7"
+  },
+
+  {
+    "title": "First Ever Project",
+    "image": "./projectImages/FirstProjectSnapShot.png",
+    "technologies": " HTML | CSS",
+    "description": "This was my very First project I Ever attempted using HTML and CSS.  I was new to web development and still trying to understand HTML layouts and CSS styling. I never deployed this project. ",
+    "github": "https://github.com/asanc139/asanc139.github.io5",
+    "deployed": "none",
+    "bgcolor": "#83B799",
+    "id": "8"
+  }
+]
