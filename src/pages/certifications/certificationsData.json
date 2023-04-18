@@ -1,0 +1,9 @@
+[
+  {
+    "title": "React",
+    "image": "./projectImages/MernProjectSnapShot.png",
+    "technology": "React.js",
+    "bgcolor": "blue",
+    "id": "1"
+  }
+]
